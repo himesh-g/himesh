@@ -133,8 +133,8 @@ a {
     color:white;
   }
   .img{
-    width:330px;
-    margin:10px;
+    width:80%;
+    margin:10px auto;
   }
   .h3{
     font-size:18px;
